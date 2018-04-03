@@ -1,0 +1,2 @@
+new one to explain working directory and stage.
+repository have stage and master.
